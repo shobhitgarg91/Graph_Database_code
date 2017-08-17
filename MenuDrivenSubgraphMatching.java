@@ -74,7 +74,7 @@ public class MenuDrivenSubgraphMatching {
     }
 
     /**
-     * This function is used for question number 4 and 5. It basically does subgraph matching for the questions.
+     * This function basically does subgraph matching for the graphs.
      * @param data      the arguments that are used to select the type of graph and target and pattern graph.
      * @throws IOException
      */
