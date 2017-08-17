@@ -1,5 +1,3 @@
-package assignment4;
-
 import org.neo4j.cypher.internal.frontend.v2_3.ast.In;
 import org.neo4j.cypher.internal.frontend.v2_3.ast.functions.Str;
 import org.neo4j.graphdb.Label;
